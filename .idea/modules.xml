@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sofaboot-swagger3/sofaboot-swagger3.iml" filepath="$PROJECT_DIR$/sofaboot-swagger3/sofaboot-swagger3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springdoc-swagger3/springdoc-swagger3.iml" filepath="$PROJECT_DIR$/springdoc-swagger3/springdoc-swagger3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springfox-swagger3/springfox-swagger3.iml" filepath="$PROJECT_DIR$/springfox-swagger3/springfox-swagger3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swagger-yapi-demo.iml" filepath="$PROJECT_DIR$/swagger-yapi-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swagger2/swagger2.iml" filepath="$PROJECT_DIR$/swagger2/swagger2.iml" />
+    </modules>
+  </component>
+</project>
